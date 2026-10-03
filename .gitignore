@@ -1,0 +1,11 @@
+# Xcode
+#
+# gitignore for Xcode projects
+.DS_Store
+build/
+DerivedData/
+
+# User settings
+xcuserdata/
+*.xcuserstate
+*.xcbkptlist

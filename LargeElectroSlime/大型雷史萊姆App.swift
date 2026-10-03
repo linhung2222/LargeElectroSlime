@@ -1,6 +1,6 @@
 import SwiftUI
 
-@main struct MyApp: App {
+@main struct 大型雷史萊姆App: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
